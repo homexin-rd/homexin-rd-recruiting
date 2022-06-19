@@ -36,8 +36,8 @@ A couple of interview questions are presented below. It is worth mentioning that
 
 ## 👤 Behavioral Questions
 
-* Imagine you are a key individual contributor at a tech company. For some reason and subsequent to a couple of heated discussions, you have to be in charge of converting a frontend web from CSR to SSR and unfortunately, you barely know SSR. Then, how would you pick up this required technique?
+* Imagine you are a key individual contributor at a tech company. For some reason and subsequent to a couple of heated discussions, you have to be in charge of converting a frontend web from CSR to SSR. Unfortunately, you barely know SSR. Then, how would you pick up this required technique?
 
-* Every single developer grows their habits, senses, and principles, ranging from coding style, and development workflow, to system design preference. Here, we want to know more about you. Could you share some of the principles you've stuck to or any good habits that you advocate?
+* Every single developer grows their habits, senses, and principles, ranging from coding styles, and development workflows, to system design preferences. Here, we want to know more about you. Could you share some of the principles you've stuck to or any good habits that you advocate?
 
 * Tech world is ever-changing. How do you keep your tech skills and knowledge current?
